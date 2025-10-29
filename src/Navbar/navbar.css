@@ -1,0 +1,10 @@
+.main-navbar {
+    background-color: rgb(137, 64, 206);
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 10%;
+}
